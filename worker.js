@@ -156,7 +156,7 @@ async function handleRpc(msg) {
               knowledge: "https://knowledge.antialienate.com",
               platform: "https://antialienate.com — Liena AI companion, evidence vault, court-ready reports",
             },
-            contribute: "Anonymized pattern reports and KB corrections via the open repository — human-moderated.",
+            contribute: "Anonymized pattern reports and KB corrections — human-moderated. Source (MIT): https://get.antialienate.com/mcp/antialienate-mcp.tar.gz",
           };
         } else {
           return rpcError(id, -32602, `unknown tool: ${name}`);

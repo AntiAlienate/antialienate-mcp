@@ -37,7 +37,7 @@ ChatGPT: add `https://mcp.antialienate.com` as a custom MCP connector.
 
 ## Contributing
 
-Anonymized pattern reports, KB corrections, and jurisdiction additions welcome via pull request. All contributions are human-moderated. Names of private individuals are never accepted.
+Anonymized pattern reports, KB corrections, and jurisdiction additions welcome — email opensource@antialienate.com or via the community. All contributions are human-moderated. Names of private individuals are never accepted.
 
 ## License
 
