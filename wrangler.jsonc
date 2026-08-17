@@ -1,0 +1,6 @@
+{
+  "name": "antialienate-mcp",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-01",
+  "routes": [{ "pattern": "mcp.antialienate.com", "custom_domain": true }]
+}
